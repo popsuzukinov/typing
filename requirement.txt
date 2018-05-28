@@ -1,0 +1,9 @@
+ruby version
+
+mayby ruby==2.1.xx ~~
+
+gem list
+rdbi
+rdbi-driver-sqlite3
+
+
