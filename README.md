@@ -2,11 +2,11 @@
 ## タイピングアドベンチャーアプリ
 
 ### 始め方
-`rdbi`
-`rdbi-driver-sqlite3`
-をgem installしてください。
-その後,typingディレクトリ配下で以下のコマンドを実行後,ゲームがスタートします。
-`ruby missionx.rb`
+`rdbi`  
+`rdbi-driver-sqlite3`  
+をgem installしてください。  
+その後,typingディレクトリ配下で以下のコマンドを実行後,ゲームがスタートします。  
+`ruby missionx.rb`  
 
 ### あらすじ
 '俺はエージェント009 ジョン・ドゥ。  
